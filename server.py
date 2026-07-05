@@ -1,3 +1,5 @@
+purpose="new_think learning"
+
 """
 step-1 : we need  to create MCP object
 similar to flask and FastAPI object
